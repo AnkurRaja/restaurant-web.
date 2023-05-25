@@ -1,0 +1,14 @@
+
+
+body{
+    background-color:yellow;
+}
+
+
+
+hr {background-color: rgb(66, 66, 112);
+border-style: double;
+border-top-right-radius:0%;
+height: 3ex;
+border-width: 5ex;
+}

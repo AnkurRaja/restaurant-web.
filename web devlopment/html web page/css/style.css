@@ -1,0 +1,15 @@
+body{
+    background-color:yellow;
+}
+
+h2{ color: blueviolet;
+}
+h3{ color: brown;
+}
+hr {background-color: rgb(66, 66, 112);
+    
+border-style: double;
+border-top-right-radius:0%;
+height: 3ex;
+border-width: 5ex;
+}

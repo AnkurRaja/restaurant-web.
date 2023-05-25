@@ -1,0 +1,19 @@
+h1 {
+    color: aqua;
+}
+
+*/
+img {
+         background-color: blue;
+}
+
+/*
+
+/*****************************class selector**********************/
+.egg  { 
+    background-color: brown;
+
+}
+.fire {
+    background-color: black;
+}
